@@ -1,8 +1,6 @@
 # kapsejlads
 
-A new Flutter project.
+Plot a start line on a map, and the app uses GPS information to calculate when
+you cross it at the current course and speed
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Written on a bus ride from Aarhus to Løgstør in sep 2018.
