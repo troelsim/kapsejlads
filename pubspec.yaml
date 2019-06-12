@@ -24,6 +24,8 @@ dev_dependencies:
     git:
       url: https://github.com/apptreesoftware/flutter_map.git
   location: ^1.4.1
+  shared_preferences: ^0.4.2
+  intl: any
 
 dependency_overrides:
   quiver: ^2.0.0+1
